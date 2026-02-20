@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md)
+
 # knowledge-base-builder
 
 A **meta-skill** that transforms your books and documents into a fully functional domain-specific skill — just like `game-dev-knowledge` serves all game development work, you can generate the equivalent for **any domain**.
