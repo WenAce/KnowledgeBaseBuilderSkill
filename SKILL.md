@@ -14,7 +14,7 @@ risk: safe
 
 ## Purpose
 
-A **meta-skill** that transforms books and documents into a fully functional domain-specific skill — just like `game-dev-knowledge` serves all game development work.
+A **meta-skill** that transforms books and documents into a fully functional domain-specific skill — it serves all work in that domain.
 
 **Input**: Books/PDFs placed in the `book/` folder  
 **Trigger**: User types `generate skill`  
